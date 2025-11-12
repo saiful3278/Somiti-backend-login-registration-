@@ -1,0 +1,1 @@
+this is a node.js server for lpgin and registration only in our somiti projectWe host our server with free tier in netlify with netlify CLI and for DB we use supabase free tier with CLI AND DONT COMPLEX THINGS ALSO USE MINIMUL SECURITY THIS IS JUST A SMALL PROJECT 
